@@ -91,8 +91,7 @@ const Navbar = () => {
             color={theme.palette.primary.main}
           >
             {/* <Link to="/" color="inherit"> */}
-              PostIt
-            {/* </Link> */}
+              Socio            {/* </Link> */}
           </Typography>
         </HorizontalStack>
 

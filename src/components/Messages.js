@@ -229,8 +229,7 @@ const Messages = (props) => {
       <AiFillMessage size={80} />
       <Typography variant="h5">PostIt Messenger</Typography>
       <Typography color="text.secondary">
-        Privately message other users on PostIt
-      </Typography>
+        Privately message other users on Socio      </Typography>
     </Stack>
   );
 };
